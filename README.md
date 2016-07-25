@@ -5,7 +5,7 @@ Google recently updated Chrome's New Tab page to include annoying links to Googl
 
 The icon for this extension is taken from [http://www.iconarchive.com/show/oxygen-icons-by-oxygen-icons.org/Actions-tab-close-icon.html] under the GNU Lesser General Public License.
 
-Help me out! Buy me a cup of coffee: http://jeremiahm.com/paypal.html
+Help me out! Buy me a cup of coffee: https://jeremiahm.com/paypal.html
 
 ------
 
