@@ -1,6 +1,6 @@
 {
 	"name": "Offline New Tab Page",
-	"version": "1.0",
+	"version": "1.0.1",
 	"description": "Disables Google's online/Google+/ad sections of the New Tab page.",
 	"author": "Jeremiah Megel",
 	"minimum_chrome_version": "18",
