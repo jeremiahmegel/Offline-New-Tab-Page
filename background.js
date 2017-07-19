@@ -24,9 +24,3 @@ chrome.webRequest.onBeforeRequest.addListener(
 	{urls: ["*://*.google.com/_/chrome/newtab*"]},
 	["blocking"]
 );
-
-chrome.tabs.onCreated.addListener(function(tab){
-	if (tab.url.indexOf("chrome://newtab") === 0) {
-		chrome.tabs.update(tab.id, {url:"chrome-search://local-ntp/local-ntp.html"});
-	}
-});
